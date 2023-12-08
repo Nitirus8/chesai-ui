@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="Calculadora.css">
+  <title>Calculadora</title>
+</head>
+<body>
+  <div class="container">
+    <header>=Estándar</header>
+    <main>0</main>
+    <button type="button">%
+      <button type="button">CE</button>
+      <button type="button">C</button>
+      <button type="button">
+        <img src="data:image/png;base64,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" transparent width="20px">
+      </button>
+    </button>
+    <button type="button">¹/x
+      <button type="button">x2</button>
+      <button type="button">²√x</button>
+      <button type="button">÷</button>
+    </button>
+    <button type="button">7
+      <button type="button">8</button>
+      <button type="button">9</button>
+      <button type="button">x</button>
+    </button>
+    <button type="button">4
+      <button type="button">5</button>
+      <button type="button">6</button>
+      <button type="button">-</button>
+    </button>
+    <button type="button">1
+        <button type="button">2</button>
+        <button type="button">3</button>
+        <button type="button">+</button>
+    </button>
+    <button type="button">+/-
+      <button type="button">0</button>
+      <button type="button">,</button>
+      <button type="button">=</button>
+    </button>
+  </div>
+</body>
+</html>
